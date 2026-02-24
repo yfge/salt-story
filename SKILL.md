@@ -132,7 +132,7 @@ metadata: {"openclaw": {"emoji": "🧂"}}
 ### Step 5: 发布
 
 如用户要求发布到知乎：
-1. 将故事写入 `/tmp/salt-story-daily.md`
+1. 将故事写入 `workspace/stories/salt-story/YYYY-MM-DD-<slug>.md`（持久化存储，不用 /tmp/）
 2. 用 `browser` 工具打开 `https://zhuanlan.zhihu.com/write`
 3. **必须用"导入文档"按钮上传MD**（不能直接粘贴，会丢格式）
 4. 设置标题 → 添加话题标签 → 发布
