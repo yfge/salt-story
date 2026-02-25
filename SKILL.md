@@ -169,6 +169,15 @@ metadata: {"openclaw": {"emoji": "🧂"}}
 
 ## 五、写作流程
 
+### Step 0: 一句话验证
+
+在做任何事之前，先写出故事的**一句话概念**。如果这句话不能同时满足三个条件，故事就不值得写：
+1. **有悬念**（听完想知道后面发生了什么）
+2. **有反常**（违反日常认知）
+3. **有画面**（能在脑中成像）
+
+参考 `references/principles.md` 的"一句话法则"。
+
 ### Step 1: 选题与方案
 
 生成 **3个故事方案**，每个包含：
@@ -341,6 +350,7 @@ metadata: {"openclaw": {"emoji": "🧂"}}
 
 ## 文件索引
 
+- `references/principles.md` — **底层原理**（信息不对称、读者心理、平台算法、叙事结构、一句话法则）
 - `references/case-studies.md` — **爆款拆解实录**（叶小白3.5万赞等，文风/结构/技法详解）
 - `references/anti-ai.md` — 去 AI 味检查清单与改写示例
 - `references/titles.md` — 盐选爆款标题公式与案例
